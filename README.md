@@ -1,6 +1,6 @@
 <img width="623" height="357" alt="criptoimg_1" src="https://github.com/user-attachments/assets/74d19dee-7ee4-41b8-a28c-f0567de95659" />
 
-<img width="588" height="345" alt="criptoimg_2" src="https://github.com/user-attachments/assets/2fbaee2b-bfe2-4bfd-961e-206608d9ffce" />
+<img width="623" height="357" alt="criptoimg_2" src="https://github.com/user-attachments/assets/2fbaee2b-bfe2-4bfd-961e-206608d9ffce" />
 
 
 # Criptografia Pigpen
